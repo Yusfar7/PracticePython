@@ -6,5 +6,5 @@ print(toplam)
 '''
 a= input("isim: ")
 b= input("soyad: ")
-i= a+" "+ b
+i= a+" "+b
 print("isim:"+" "+ i)

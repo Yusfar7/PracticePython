@@ -7,17 +7,17 @@ def cikarma(sayi1,sayi2):
 def carpma(sayi1,sayi2):
     return sayi1*sayi2
 
-def bolme(sayi1,sayi2):
+'''def bolme(sayi1,sayi2):
     if float(sayi2) ==0:
         return "0'a bölünemez"
     
-    return sayi1/sayi2
+    return sayi1/sayi2 '''
 
-'''def bolme(sayi1,sayi2):
+def bolme(sayi1,sayi2):
     try: 
         return sayi1/sayi2
     except ZeroDivisionError:
-        return "0'a bölünemez" '''
+        return "0'a bölünemez"
 
 
 islem = input("islem tipi sec: 1/2/3/4:")
