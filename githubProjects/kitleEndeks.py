@@ -1,4 +1,4 @@
-height = float(input("Boy giriniz: "))
-weight = float(input("Kilo giriniz: "))
-index = (height/weight)**2
+height = float(input("Metre cinsinden boy giriniz: "))
+weight = float(input("KG cinsinden kilo giriniz: "))
+index = weight/(height**2)
 print("Vücut Kitle endeksiniz: ", int(index))

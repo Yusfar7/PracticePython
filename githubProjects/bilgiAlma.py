@@ -1,0 +1,7 @@
+print("---bilgi alma programı---")
+ad = input("Adınızı giriniz: ")
+soy = input("Soyadınızı giriniz:")
+no = input("Telefon no gir: ")
+tc = input("TC no giriniz: ")
+print("\n","Bilgiler Kaydediliyor...")
+print("\nad: {}\nsoyad: {}\ntel no: {}\nTC no: {}".format(ad,soy,no,tc))
