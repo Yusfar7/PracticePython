@@ -1,0 +1,1 @@
+print("{}, {} yaşında bir {}dır.".format("Yusuf","3","kungfu üstadı"))
