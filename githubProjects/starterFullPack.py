@@ -20,3 +20,5 @@ print(2/2)
 print(2**2)
 print(2//2)
 print("2"*2) #yorum satırı gaming
+g=100
+print(id(g))
